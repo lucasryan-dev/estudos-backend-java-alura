@@ -11,7 +11,7 @@ A trilha vai dos fundamentos de programação até arquitetura de sistemas moder
 - **Semana 1 — Fundamentos**: Simulação de transferência bancária. Lógica de programação, `Scanner`, estruturas condicionais e de repetição.
 - **Semana 2 — Orientação a Objetos**: Sistema inspirado no Spotify (músicas e podcasts). Herança, polimorfismo e `@Override`.
 - **Semana 3 — Listas e Coleções**: Simulação de cartão de crédito. `List`, `ArrayList`, `Collections.sort()` e a interface `Comparable`.
-- **Semana 4 — APIs**: 
+- **Semana 4 — APIs**: Consulta de endereço via CEP. HttpClient, Gson e records.
 
 ## 🛠️ Tecnologias
 
